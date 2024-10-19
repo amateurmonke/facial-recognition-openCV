@@ -3,7 +3,7 @@ import cv2 as cv
 import numpy as np
 
 
-people = ["hemanth", "mp", "negi", "rajesh", "vb"]
+people = [] # add list of people
 
 DIR = r'/resources/train' # add appropriate path
 
